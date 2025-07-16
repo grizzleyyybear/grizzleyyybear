@@ -14,9 +14,6 @@
 </p>
 
 <br/>
-<br/>
-<br/>
-<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=grizzleyyybear&show_icons=true&theme=radical" width="375">
